@@ -2001,6 +2001,7 @@ $all_customers = [
   ['Sara', 'Chiao'],
   ['Kevin', 'Church'],
   ['Ryan', 'Berberian'],
+  ['Mohd Faizal','Amat'],
 ];
 
 ?>
